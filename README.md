@@ -16,6 +16,10 @@ The calculator supports the following operations:
 - Unexpected error handling
 
 ## How to Run the Calculator
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
 
 Activate the virtual environment:
 
